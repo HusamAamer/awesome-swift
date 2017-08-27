@@ -1524,13 +1524,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Version Manager
 [back to top](#readme) 
 
-* [Versioner](https://github.com/HusamAamer/Versioner) - Info & Events like (.isFreshInstall, .isUpdate, .isLaunch(number: XX) .. etc).
 * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 * [Version](https://github.com/mrackwitz/Version) - Version represents and compares semantic versions.
 * [Version Tracker Swift](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 * [Version Update](https://github.com/tenric/VersionUpdate) - Check and update app's version for both AppStore & Fir.
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers.
+* [Versioner](https://github.com/HusamAamer/Versioner) - Info & Events like (.isFreshInstall, .isUpdate, .isLaunch(number: XX) .. etc).
 
 ### Video
 [back to top](#readme) 
